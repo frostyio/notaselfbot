@@ -1,0 +1,4 @@
+/mongodb
+/node_modules
+/out
+/src/.env
